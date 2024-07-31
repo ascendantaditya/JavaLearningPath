@@ -1,0 +1,19 @@
+-> For Loop:
+for (initialisation;condition;updation) {
+
+}
+
+-> While Loop;
+int i = 0;
+while(condition){
+    System.out.print(i);
+    i++;
+
+}
+
+-> do while Loop;
+do { // kam karo
+
+}while(condition){
+// or kab tak karo (it's like yeah btayega ki kab tak kaam karna hain)
+}
