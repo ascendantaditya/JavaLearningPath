@@ -11,6 +11,8 @@ public class while_loop {
         while (i < 11) {
             System.out.println(i);
             i++;
+
+            sc.close();
         }
     }
 }
